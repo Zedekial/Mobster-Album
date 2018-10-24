@@ -1,9 +1,9 @@
 # Index
 - [About](#About)
-- [Naming conventions](#Naming conventions)
-- [Working on the project](#Working on the project)
+- [Naming conventions](#Naming-conventions)
+- [Working on the project](#Working-on-the-project)
 - [Teams](#Teams)
-- [Dependancies & setup](#Dependancies & setup)
+- [Dependancies & setup](#Dependancies-&-setup)
 
 
 # About
@@ -27,4 +27,4 @@ David & Pedro and Irina & Monica.
 
 
 #### Dependancies & setup
-- When you clone the project you can run 'npm install' to install any Dependancies based on the package.json file. To launch the project run 'npm start'.
+- When you clone the project you can run 'npm install' to install any Dependancies based on the 'package.json' file. To launch the project run 'npm start'.
