@@ -1,9 +1,9 @@
 # Index
 - [About](#About)
-- [Naming conventions](#Naming conventions)
-- [Working on the project](#Working on the project)
+- [Naming conventions](#Naming-conventions)
+- [Working on the project](#Working-on-the-project)
 - [Teams](#Teams)
-- [Dependancies & setup](#Dependancies & setup)
+- [Dependancies & setup](#Dependancies-&-setup)
 
 
 # About
